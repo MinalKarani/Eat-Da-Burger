@@ -1,0 +1,49 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+  font-weight: bold;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+ul{
+  list-style: none;
+}
+
+body{
+  text-align: center;
+  background-color: bisque;
+  background-image: url("/assets/img/b1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo{
+  height:150px;
+  width:150px;
+  margin-top: 20px;
+}
+
+p{
+  font-weight: bold;
+}
+#burger{
+  width:250px;
+  height:60px;
+  margin-left: 16px;
+}
+.submit{
+  margin-top: 10px;
+  background-color: rgb(114, 63, 63);
+  color:wheat;
+  border: none;
+}
+.devour-it{
+  background-color: rgb(114, 63, 63);
+  color:wheat;
+  border: none;
+  float: right;
+}
