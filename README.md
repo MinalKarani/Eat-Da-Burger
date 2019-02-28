@@ -11,4 +11,4 @@ The app uses npm packages express, express-handlebars, mysql, and orm.
 
 Live App Link : https://gentle-tundra-73353.herokuapp.com/
 
-![Screenshot](public/assets/img/screenshot.png)
+![screenshot](public/assets/img/screenshot.png)
