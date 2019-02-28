@@ -10,4 +10,4 @@ App stores every burger in a MySQL database, whether devoured or not.
 The app uses npm packages express, express-handlebars, mysql, and orm.
 Live App Link : https://gentle-tundra-73353.herokuapp.com/
 
-![image](public/assets/img/screenshot.png)
+![image](assets/img/screenshot.png)
