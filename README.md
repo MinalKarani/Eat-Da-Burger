@@ -7,4 +7,7 @@ Each burger in the waiting area also has a `Devour it!` button. When the user cl
 
 App stores every burger in a MySQL database, whether devoured or not.
 
+The app uses npm packages express, express-handlebars, mysql, and orm.
+Live App Link : https://gentle-tundra-73353.herokuapp.com/
 
+![image](assets/img/screenshot.png)
