@@ -1,1 +1,0 @@
-insert into burgers(burger_name,devoured) values("BBQ Tofu Burger",true),("Eggplant Hummus Veggie Burgers",true),("Beet Burger",false),("Crispy Quinoa Burgers",false)
